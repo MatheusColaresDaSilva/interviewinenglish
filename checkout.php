@@ -1,10 +1,24 @@
 <?php
 require 'vendor/autoload.php';
-$stripeSecretKey = getenv('STRIPE_SECRET_KEY');
 
-\Stripe\Stripe::setApiKey($stripeSecretKey);
+function loadEnv($path)
+{
+    if (!file_exists($path)) return;
 
-$baseSuccessUrl = 'http://localhost/interviewinenglish/redirect-success.php?plan=';
+    $lines = file($path, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+    foreach ($lines as $line) {
+        if (strpos(trim($line), '#') === 0) continue;
+
+        list($key, $value) = explode('=', $line, 2);
+        $_ENV[trim($key)] = trim($value);
+    }
+}
+
+loadEnv(__DIR__ . '/.env');
+
+\Stripe\Stripe::setApiKey($_ENV['STRIPE_SECRET_KEY']);
+
+$baseSuccessUrl = 'http://localhost/interview/redirect-success.php?plan=';
 
 $plans = [
     'basic' => [
