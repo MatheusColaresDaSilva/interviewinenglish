@@ -104,7 +104,7 @@
                         style="min-height: 300px; object-fit: cover;">
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
-                            <h5 style="margin-top: -130px;" class="display-3 text-white mb-my-4 text-center fs-sm-5">MELHORE SEU INGLÊS. <br> GANHE CONFIANÇA. <br> PASSE NA SUA ENTREVISTA</h5>
+                            <h5 style="margin-top: -130px;" class="display-3 text-white mb-my-4 text-center fs-sm-5">MELHORE SEU INGLÊS. <br> GANHE CONFIANÇA. <br> PASSE NA SUA ENTREVISTA.</h5>
                             <div class="row mx-auto text-center">
                                 <div class="col-lg-3 col-md-3 col-sm-4 mx-auto mx-md-auto mx-sm-auto mx-lg-auto">
                                     <a href="#package"
@@ -125,7 +125,7 @@
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
                             <h5 style="margin-top: -130px;" class="display-3 text-white mb-md-4 text-center">TREINADORES ESPECIALIZADOS. <br> AULAS INDIVIDUAIS.
-                                <br> ORIENTAÇÃO PASSO A PASSO
+                                <br> ORIENTAÇÃO PASSO A PASSO.
 
                             </h5>
                             <div class="row mx-auto text-center">
@@ -138,7 +138,7 @@
                             </div>
                             <h3
                                 class="display-car text-white text-uppercase mb-md-3 text-sm-center text-md-center text-lg-center">
-                                Ajudamos você a falar com confiança e obter resultados
+                                Ajudamos você a falar com confiança e obter resultados.
 
                             </h3>
 
@@ -151,7 +151,7 @@
                         style="min-height: 300px; object-fit: cover;">
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
-                            <h5 class="display-3 text-white mb-md-4 text-center">PRATIQUE ENTREVISTAS REAIS. <br> AVANCE SUA CARREIRA<br> E DESTAQUE-SE.</h5>
+                            <h5 class="display-3 text-white mb-md-4 text-center">PRATIQUE ENTREVISTAS REAIS. <br> AVANCE SUA CARREIRA.<br> E DESTAQUE-SE.</h5>
                             <div class="row mx-auto text-center">
                                 <div class="col-lg-3 col-md-3 col-sm-4 mx-auto mx-md-auto mx-sm-auto mx-lg-auto">
                                     <a href="#package"

@@ -41,10 +41,13 @@
         loop: true,
         items: 1
     });
+
+    $('#header-carousel').carousel({
+        interval: 2000, 
+        ride: 'carousel'
+    });
     
 })(jQuery);
-
-
 
 document.addEventListener("DOMContentLoaded", function () {
     AOS.init();

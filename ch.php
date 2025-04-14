@@ -64,7 +64,7 @@
             </button>
             <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                 <div class="navbar-nav py-0 text-center ms-auto">
-                    <a href="ch.php" class="nav-item nav-link active">家 </a>
+                    <a href="ch.php" class="nav-item nav-link active">主页</a>
                     <!-- <a href="#how" class="nav-item nav-link">How</a> -->
                     <a href="#about" class="nav-item nav-link">关于 
                     </a>
@@ -102,9 +102,7 @@
                         style="min-height: 300px; object-fit: cover;">
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
-                            <h5 style="margin-top: -130px;" class="display-3 text-white mb-my-4 text-center fs-sm-5">提高你的英语水平。 <br>
-获得信心。
-通过面试
+                            <h5 style="margin-top: -130px;" class="display-3 text-white mb-my-4 text-center fs-sm-5">提高你的英语水平<br>获得信心<br>通过面试
                                 </h5>
                             <div class="row mx-auto text-center">
                                 <div class="col-lg-3 col-md-3 col-sm-4 mx-auto mx-md-auto mx-sm-auto mx-lg-auto">
@@ -124,8 +122,7 @@
                         style="min-height: 300px; object-fit: cover;">
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
-                            <h5 style="margin-top: -130px;" class="display-3 text-white mb-md-4 text-center">专家教练 <br>一对一课程。
-                                <br> 逐步指导
+                            <h5 style="margin-top: -130px;" class="display-3 text-white mb-md-4 text-center">专业教练 <br>一对一课程 <br> 逐步指导
                             </h5>
                             <div class="row mx-auto text-center">
                                 <div class="col-lg-3 col-md-3 col-sm-4 mx-auto mx-md-auto mx-sm-auto mx-lg-auto">
@@ -135,7 +132,7 @@
                             </div>
                             <h3
                                 class="display-car text-white text-uppercase mb-md-3 text-sm-center text-md-center text-lg-center">
-                                我们帮助您自信地说话并取得成果
+                                我们助力您自信开口表达，并收获理想成果
                             </h3>
 
 
@@ -147,11 +144,7 @@
                         style="min-height: 300px; object-fit: cover;">
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
-                            <h5 class="display-3 text-white mb-md-4 text-center">练习真实的采访。
-
-
-<br> ADVANCE
-推进你的职业生涯<br> 并脱颖而出.</h5>
+                            <h5 class="display-3 text-white mb-md-4 text-center">沉浸式真实面试场景<br>助力您的职业发展<br>让您脱颖而出</h5>
                             <div class="row mx-auto text-center">
                                 <div class="col-lg-3 col-md-3 col-sm-4 mx-auto mx-md-auto mx-sm-auto mx-lg-auto">
                                     <a href="#package"
@@ -178,7 +171,7 @@
                     <div class="text-left mb-4">
                         <h5 class="text-primary text-uppercase mb-3 text-center fs-4" style="letter-spacing: 5px;">关于我们
                         </h5>
-                        <h3 class="text-white text-center">欢迎来到英语采访！</h3>
+                        <h3 class="text-white text-center">欢迎来到英语面试！</h3>
                         <p class="text-center" style="font-weight: bold; font-size: 18px;">我们专注于帮助非英语母语人士在工作面试中取得成功。</p>
                     </div>
 
@@ -240,7 +233,7 @@
                                 </div>
 
                                 <div class="benefits">
-                                    <h4>学习终生受益的宝贵技能：</h4>
+                                    <h4>真实世界中的显著成效：</h4>
                                     <p style="line-height:35px; font-size:18px; font-weight: bold;">建立信心，提高流畅性并打开通往更好机会的大门。
                                     </p>
                                 </div>
@@ -329,9 +322,9 @@
                         <h3 class="text-primary" style="font-weight: bold; color: white;">第 2 步：安排课程
 
                         </h3>
-                        <p style="font-weight: 600; color: white; font-size: 18px;">通过我们灵活的日程安排，在适合您的时间预订会议。
+                        <p style="font-weight: 600; color: white; font-size: 18px;">通过我们灵活的日程安排，在适合您的时间预订预订课程。
                         </p>
-                        <h3 class="text-primary" style="font-weight: bold; color: white;">第 3 步：参加您的会议
+                        <h3 class="text-primary" style="font-weight: bold; color: white;">第 3 步：参加您的预订课程
                         </h3>
                         <p style="font-weight: 600; color: white; font-size: 18px;">参加您的课程，获得专家指导，并建立成功的信心。
                         </p>
@@ -374,14 +367,14 @@
                                 </h5>
                                 <h3 style="text-decoration: line-through; text-decoration-color: red;">$56</h3>
                                 <h1 style="color: #87CEFA">$28</h1>
-                                <h5>1 类</h5>
+                                <h5>单次课程</h5>
                                 <!-- <h2></h2> -->
                             </div>
                             <div class="package-bottom" style="height: 390px;">
                                 <ul style="text-align: left;">
                                     <li style="text-align: left;"><i class="fa-solid fa-circle-check"></i>&nbsp;1 次辅导课程（25 分钟）</li>
                                     <li><i class="fa-solid fa-circle-check"></i>&nbsp;非常适合最后一刻面试准备</li>
-                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;快速模拟采访以及提示和反馈</li>
+                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;快速模拟面试以及提示和反馈</li>
                                 </ul>
                                 <button type="submit" class="btn btn-primary semi-bold" name="package" id="pkg1"
                                     value="basic">立即购买</button>
@@ -423,7 +416,7 @@
 
                             <div class="package-top">
 
-                                <h3>管理人员</h3>
+                                <h3>高级课程</h3>
                                 <h5>为成功做好准备</h5>
                                 <h3 style="text-decoration: line-through; text-decoration-color: red;">$336</h3>
                                 <h1 style="color: #87CEFA">$148</h1>
@@ -475,7 +468,7 @@
                         <div class="bg-secondary p-4">
                             <h3 style="color: #00163c;">亚历克斯
                             </h3>
-                            <h5 class="m-0 text-primary">商业教练和导师</h5>
+                            <h5 class="m-0 text-primary">商务英语教练</h5>
                         </div>
                     </div>
                 </div>
@@ -522,7 +515,7 @@
                     </h3>
                     <ul style="list-style: none; text-align: left;">
                         <li class="" style="font-weight: 500; font-size: 18px; line-height: 35px;"><span
-                                class="text-primary fw-bold" style="font-size: 18px;">• 我们的导师
+                                class="text-primary fw-bold" style="font-size: 18px;">• 口语教练
                                 </span> 已经
                             华尔街日报精选
                             《Journal》荣获年度企业家奖，并被提名为“40 岁以下 40 强”人物。
@@ -772,7 +765,7 @@
                                     style="font-weight: 500; background-color: #316aff; color: white; font-size: 20px;">
                                     不，我们的辅导是根据您当前的英语水平量身定制的。无论你是一个
                                     无论是初学者还是高级演讲者，我们都可以帮助您清晰、自信地进行沟通
-                                    采访。
+                                    面试。
 
                                 </div>
                             </div>
@@ -816,8 +809,7 @@
                                 <div class="accordion-body"
                                     style="font-weight: 500; background-color: #316aff; color: white; font-size: 20px;">
                                     是的！我们的模拟面试模拟真实的面试场景，帮助您练习
-                                    在压力下。我们提供有关您的答案、发音和信息的详细反馈
-                                    整体交付。
+                                    在压力下。我们提供有关您的答案、发音和信息的详细反馈。
 
                                 </div>
                             </div>
@@ -838,10 +830,7 @@
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body"
                                     style="font-weight: 500; background-color: #316aff; color: white; font-size: 20px;">
-                                    这取决于您的目标和需求。有些客户仅在一项工作中就取得了显着的进步
-                                    或两次课程，而其他人则更喜欢持续辅导以实现长期进步。我们
-                                    根据您的时间表提供灵活的选项。
-
+                                    这取决于您的目标和需求。有些客户仅在一单次课程中有些客户仅在单次或两次课程中就取得了显著的进步。而有些客户则更喜欢参加持续课程以实现长期稳步的进步。
                                 </div>
                             </div>
                         </div>

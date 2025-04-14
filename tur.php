@@ -69,7 +69,7 @@
             <!-- <a href="#how" class="nav-item nav-link">How</a> -->
                 <a href="#about" class="nav-item nav-link">Hakkında</a>
                 <a href="#package" class="nav-item nav-link">Fiyatlandırma</a>
-                <a href="#faq" class="nav-item nav-link">SSS'LER
+                <a href="#faq" class="nav-item nav-link">SSS
                 </a>
                 <a href="blog-tur.php" class="nav-item nav-link">Blog</a>
                 <a href="#contact" class="nav-item nav-link">Temas etmek
@@ -102,7 +102,7 @@
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
                             <h5 style="margin-top: -130px;" class="display-3 text-white mb-my-4 text-center fs-sm-5">İNGİLİZCE'NİZİ GELİŞTİRİN. <br> KAZANÇ
-                            KENDİNDEN EMİN. <br> RÖPORTAJINIZI GEÇİN</h5>
+                            KENDİNDEN EMİN. <br> RÖPORTAJINIZI GEÇİN.</h5>
                             <div class="row mx-auto text-center">
                                 <div class="col-lg-3 col-md-3 col-sm-4 mx-auto mx-md-auto mx-sm-auto mx-lg-auto">
                                     <a href="#package"
@@ -122,7 +122,7 @@
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
                             <h5 style="margin-top: -130px;" class="display-3 text-white mb-md-4 text-center">UZMAN KOÇLAR. <br> BİRE BİR DERSLER.
-                            <br> ADIM ADIM REHBERLİK
+                            <br> ADIM ADIM REHBERLİK.
                             </h5>
                             <div class="row mx-auto text-center">
                                 <div class="col-lg-3 col-md-3 col-sm-4 mx-auto mx-md-auto mx-sm-auto mx-lg-auto">
@@ -145,7 +145,7 @@
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
                             <h5 class="display-3 text-white mb-md-4 text-center">GERÇEK RÖPORTAJLAR UYGULAYIN. <br> İLERLEME
-                            KARİYERİNİZ<br> VE ÖNE ÇIKIN.</h5>
+                            KARİYERİNİZ.<br> VE ÖNE ÇIKIN.</h5>
                             <div class="row mx-auto text-center">
                                 <div class="col-lg-3 col-md-3 col-sm-4 mx-auto mx-md-auto mx-sm-auto mx-lg-auto">
                                     <a href="#package"
@@ -284,8 +284,7 @@
                             <div class="col-lg-6 mx-auto text-center" data-aos="fade-right" data-aos-delay="500"
                                 data-aos-duration="500" data-aos-easing="ease-in-out">
                                 <a href="#package"
-                                    class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Bugün Başlayın
-                                    Bugün</a>
+                                    class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Bugün Başlayın</a>
                             </div>
                         </div>
 
@@ -311,7 +310,7 @@
         <div class="container-fluid py-3 px-5">
             <div class="text-center">
                 <!-- <h5 class="text-primary text-uppercase mb-3" style="letter-spacing: 5px;">Join Process</h5> -->
-                <h2 class="text-white text-center">Nasıl Çalışır?</h2>
+                <h2 class="text-white text-center">NASIL İŞLER?</h2>
             </div>
             <div class="row align-items-center">
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="500" data-aos-duration="500"
@@ -322,30 +321,24 @@
                     data-aos-easing="ease-in-out">
                     <div class="how-it-work">
                         <!-- <h5 class="text-primary text-uppercase mb-3" style="letter-spacing: 5px;">About Us</h5> -->
-                        <h3 class="text-primary  mt-3" style="font-weight: bold;">1. Adım. Planınızı Seçin
+                        <h3 class="text-primary  mt-3" style="font-weight: bold;">Adım 1. Planınızı Seçin
                         </h3>
-                        <p style="font-weight: 600;color: white; font-size: 18px;">İhtiyaçlarınıza uygun bir plan seçin,
-                            tek birinden
-                            devam eden koçluk oturumu</p>
-                        <h3 class="text-primary" style="font-weight: bold; color: white;">Adım 2: Bir Ders Planlayın
+                        <p style="font-weight: 600;color: white; font-size: 18px;">Tek seanslık çözümlerden uzun süreli koçluk programlarına kadar farklı seçeneklerimiz arasından ihtiyaçlarınıza uygun bir plan belirleyin.</p>
+                        <h3 class="text-primary" style="font-weight: bold; color: white;">Adım 2. Ders Programlayın
 
                         </h3>
-                        <p style="font-weight: 600; color: white; font-size: 18px;">Uygun bir zamanda bir seans rezervasyonu yapın
-                            bizim için sizin için
-                            esnek planlama.
+                        <p style="font-weight: 600; color: white; font-size: 18px;">Esnek planlama seçeneklerimizle, size en uygun saatte bir oturum planlayın.
                         </p>
-                        <h3 class="text-primary" style="font-weight: bold; color: white;">3. Adım. Oturumunuza Katılın
+                        <h3 class="text-primary" style="font-weight: bold; color: white;">Adım 3. Oturuma Katılın
                         </h3>
-                        <p style="font-weight: 600; color: white; font-size: 18px;">Seansınıza katılın, uzmanlaşın
-                            koçluk yapmak ve
-                            başarılı olmak için güven.
+                        <p style="font-weight: 600; color: white; font-size: 18px;">Oturumunuza katılın, uzman koçluk desteği alın ve başarı için gerekli özgüveni kazanın.
                         </p>
                     </div>
                     <!-- <p>We believe learning should be more than just theory—it should be practical, engaging, and career-driven. That’s why we connect learners with top tutors, offer real-world practice, and prepare them for success with mock interviews. Whether you're sharpening your skills or gearing up for your dream job, we provide the guidance, flexibility, and confidence you need to excel. Your growth is our mission—let’s achieve it together! 🚀</p> -->
                     <div class="row">
                         <div class="col-lg-6 mx-auto text-center" data-aos="fade-right" data-aos-delay="500"
                             data-aos-duration="500" data-aos-easing="ease-in-out">
-                            <a href="#package" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Bugün</a>
+                            <a href="#package" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Bugün Başlayın</a>
                         </div>
                     </div>
                 </div>
@@ -357,7 +350,7 @@
         <div class="container-fluid py-3 px-5">
             <div class="text-center mb-4">
                 <!-- <h5 class="text-primary text-uppercase mb-3" style="letter-spacing: 5px;">Our Classes</h5> -->
-                <h2 class="text-dark">Fiyatlandırma Planları</h2>
+                <h2 class="text-dark">FİYAT PLANLARI</h2>
             </div>
             <?php
                 $scheme = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http";
@@ -374,25 +367,22 @@
                             <div class="package-top">
 
                                 <h3>Temel</h3>
-                                <h5>Hızlı Çalışma
+                                <h5>Hızlı Ders
                                 </h5>
                                 <h3 style="text-decoration: line-through; text-decoration-color: red;">$56</h3>
                                 <h1 style="color: #87CEFA">$28</h1>
-                                <h5>1 Sınıf
+                                <h5>1 Ders
                                 </h5>
                                 <!-- <h2></h2> -->
                             </div>
                             <div class="package-bottom" style="height: 390px;">
                                 <ul style="text-align: left;">
-                                    <li style="text-align: left;"><i class="fa-solid fa-circle-check"></i>&nbsp;1 Koçluk Oturumu (25 mins)</li>
-                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;Son dakika röportajı için harika
-                                    hazırlık</li>
-                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;İpuçlarıyla Hızlı Sahte Röportajlar
-                                    ve geri bildirim</li>
+                                    <li style="text-align: left;"><i class="fa-solid fa-circle-check"></i>&nbsp;1 Koçluk Oturumu (her biri 25 dakika)</li>
+                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;Son dakika mülakat hazırlığı için ideal</li>
+                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;Hızlı deneme mülakatları + ipuçları ve geri bildirim</li>
                                 </ul>
                                 <button type="submit" class="btn btn-primary semi-bold" name="package" id="pkg1"
-                                    value="basic">Satın almak
-                                    Şimdi</button>
+                                    value="basic">Şimdi Satın Al</button>
                             </div>
                         </div>
                     </div>
@@ -404,25 +394,22 @@
                             <div class="package-top">
                                 <span class="sale-badge">En Popüler</span>
                                 <h3>Standart</h3>
-                                <h5>Geleceğinize yatırım yapın</h5>
+                                <h5>Geleceğine yatırım yap</h5>
                                 <h3 style="text-decoration: line-through; text-decoration-color: red;">$168</h3>
                                 <h1 style="color:#87CEFA">$78</h1>
-                                <h5>3 derslik paket</h5>
+                                <h5>3 Derslik Paket</h5>
                                 <!-- <h2></h2> -->
                             </div>
                             <div class="package-bottom" style="height: 390px;">
                                 <ul style="text-align: left;">
-                                    <li style="text-align: left;"><i class="fa-solid fa-circle-check"></i>&nbsp;3 Koçluk Seansları (25 mins each)</li>
+                                    <li style="text-align: left;"><i class="fa-solid fa-circle-check"></i>&nbsp;3 Koçluk Oturumu (her biri 25 dakika)</li>
                                     <li><i class="fa-solid fa-circle-check"></i>&nbsp;İngilizcenizi geliştirin</li>
-                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;Pratik Mülakat Soruları</li>
-                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;Sahte bir röportaj hazırlayın ve yapın
-                                        ipuçları ve geri bildirimlerle
-</li>
+                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;Mülakat soruları pratiği</li>
+                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;İpuçları ve geri bildirim eşliğinde deneme mülakatı hazırlığı</li>
 
                                 </ul>
                                 <button type="submit" class="btn btn-primary semi-bold" id="pkg2" name="package"
-                                    value="standard">Satın almak
-                                    Şimdi</button>
+                                    value="standard">Şimdi Satın Al</button>
                             </div>
                         </div>
                     </div>
@@ -433,25 +420,23 @@
 
                             <div class="package-top">
 
-                                <h3>Yönetici</h3>
-                                <h5>Başarıya Hazırız</h5>
+                                <h3>Üst Düzey</h3>
+                                <h5>Başarıya Hazır Olun</h5>
                                 <h3 style="text-decoration: line-through; text-decoration-color: red;">$336</h3>
                                 <h1 style="color: #87CEFA">$148</h1>
-                                <h5>6 derslik paket</h5>
+                                <h5>6 Derslik Paket</h5>
                                 <!-- <h2></h2> -->
                             </div>
                             <div class="package-bottom">
                                 <ul style="text-align: left;">
-                                    <li style="text-align: left;"><i class="fa-solid fa-circle-check"></i>&nbsp;6 Koçluk Seansları (25 min each)</li>
-                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;Improve your English</li>
-                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;Özel eylem planı</li>
-                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;Alıştırma Mülakat soruları</li>
-                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;Güven Oluşturun</li>
-                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;İpuçlarıyla Sahte Röportajlar Yapın
-                                    geri bildirim ve daha fazlası</li>
+                                    <li style="text-align: left;"><i class="fa-solid fa-circle-check"></i>&nbsp;6 Koçluk Oturumu (her biri 25 dakika)</li>
+                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;İngilizcenizi geliştirin</li>
+                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;Size özel eylem planı</li>
+                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;Mülakat soruları pratiği</li>
+                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;Özgüveninizi artırın</li>
+                                    <li><i class="fa-solid fa-circle-check"></i>&nbsp;İpuçları ve geri bildirimle deneme mülakatları (ve daha fazlası)</li>
                                 </ul>
-                                <button type="submit" class="btn btn-primary semi-bold" name="package" value="executive">Satın almak
-                                    Şimdi</button>
+                                <button type="submit" class="btn btn-primary semi-bold" name="package" value="executive">Şimdi Satın Al</button>
                             </div>
                         </div>
 
@@ -464,7 +449,7 @@
     <div id="coach" class="container-fluid py-3">
         <div class="container-fluid py-3 px-5">
             <div class="text-center">
-                <h5 class="text-primary text-uppercase mb-3" style="letter-spacing: 5px;">Antrenörler
+                <h5 class="text-primary text-uppercase mb-3" style="letter-spacing: 5px;">KOÇLAR
                 </h5>
                 <h2 class="text-white mb-3">Koçlarımızla Tanışın</h2>
             </div>
@@ -477,8 +462,7 @@
                                 <a class="btn btn-outline-light btn-square mx-1" href="#"><i
                                         class="fab fa-facebook-f"></i></a>
                                 <a href="teacher-tur.html#alex"
-                                    class="btn btn-outline-light py-md-2 px-md-4 font-weight-semi-bold mt-2 px-2">Okumak
-                                    Daha</a>
+                                    class="btn btn-outline-light py-md-2 px-md-4 font-weight-semi-bold mt-2 px-2">Detayları Gör</a>
 
                                 <a class="btn btn-outline-light btn-square mx-1" href="#"><i
                                         class="fab fa-linkedin-in"></i></a>
@@ -499,15 +483,14 @@
                                 <a class="btn btn-outline-light btn-square mx-1" href="#"><i
                                         class="fab fa-facebook-f"></i></a>
                                 <a href="teacher-tur.html#kelly"
-                                    class="btn btn-outline-light py-md-2 px-md-4 font-weight-semi-bold mt-2 px-2">Okumak
-                                    Daha</a>
+                                    class="btn btn-outline-light py-md-2 px-md-4 font-weight-semi-bold mt-2 px-2">Detayları Gör</a>
                                 <a class="btn btn-outline-light btn-square mx-1" href="#"><i
                                         class="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
                         <div class="bg-secondary p-4">
-                            <h3 style="color: #00163c;">Kelly'nin</h3>
-                            <h5 class="m-0 text-primary">Yönetici Kariyer Koçu</h5>
+                            <h3 style="color: #00163c;">Kelly</h3>
+                            <h5 class="m-0 text-primary">Üst Düzey Kariyer Koçu</h5>
                         </div>
                     </div>
                 </div>
@@ -527,31 +510,24 @@
                 <div class="col-lg-7 col-md-12 team mt-4" data-aos="fade-up" data-aos-delay="500"
                     data-aos-duration="500" data-aos-easing="ease-in-out">
 
-                    <h3 class="text-primary text-center fw-bold">Neden Bizi Seçmelisiniz:</h3>
+                    <h3 class="text-primary text-center fw-bold">Neden Bizi Tercih Etmelisiniz?</h3>
                     <ul style="list-style: none; text-align: left;">
                         <li class="" style="font-weight: 500; font-size: 18px; line-height: 35px;"><span
-                                class="text-primary fw-bold" style="font-size: 18px;">• Öğretmenlerimiz</span> oldu
-                            The Wall Street'te yer aldı
-                            Journal, Yılın Girişimcisi ödülünü kazandı ve Top 40 Under 40 listesine aday gösterildi.
+                                class="text-primary fw-bold" style="font-size: 18px;">• Eğitmenlerimiz</span> The Wall Street Journal’da yer almış, Yılın Girişimcisi ödülünü kazanmış ve 40 Yaş Altı En İyi 40 listesine aday gösterilmiştir.
                         </li><br>
                         <li class="" style="font-weight: 500; font-size: 18px; line-height: 35px;"><span
-                                class="text-primary fw-bold" style="font-size: 18px;">• Öğrencilere yardım ettik</span>
-                                olarak başarıya ulaşmak
-                                profesyoneller, mühendisler, avukatlar, programcılar ve daha fazlası.
+                                class="text-primary fw-bold" style="font-size: 18px;">• Bizimle çalışan öğrenciler</span> mühendislik, hukuk, yazılım gibi farklı sektörlerde kariyerlerinde önemli başarılar elde ettiler.
                         </li><br>
 
                         <li class="" style="font-weight: 500; font-size: 18px; line-height: 35px;"><span
-                                class="text-primary fw-bold" style="font-size: 18px;">• Öğrenmeyi sağlarız</span>
-                                keyifli ve etkili,
-                                Hedeflerinize ulaşmanız için size beceri ve güven verir.
+                                class="text-primary fw-bold" style="font-size: 18px;">•	Öğrenme sürecini </span> keyifli ve etkili hale getiriyor, hedeflerinize ulaşmanız için gereken becerileri ve özgüveni kazanmanızı sağlıyoruz.
                         </li><br>
                     </ul>
                     <div class="row">
                         <div class="col-lg-6 mx-auto text-center" data-aos="fade-right" data-aos-delay="500"
                             data-aos-duration="500" data-aos-easing="ease-in-out">
                             <a href="#package"
-                                class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Planlayın
-                                Sınıf</a>
+                                class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Ders Planlayınf</a>
                         </div>
                     </div>
                 </div>
@@ -575,11 +551,9 @@
                     data-aos-easing="ease-in-out">
                     <div class="testimonial-card">
                         <img src="img/china.jpeg" alt="Wanda" class="testimonial-img">
-                        <p>"AL EX tanıdığım en iyi yabancı öğretmen. Onun yardımıyla bir aydan fazla zaman harcadım,
-                            İngilizcede aptal olmaktan yabancı bir şirketle yapılan mülakatı başarıyla geçmeye ve
-                            Sonunda hayalimdeki şirketteki işe kavuştum."</p>
+                        <p>"Alex, şimdiye kadar tanıdığım en iyi yabancı öğretmen. Onun yardımıyla, İngilizcede neredeyse hiç konuşamama noktasından, bir ay içinde yabancı bir şirketin mülakatını başarıyla geçmeye ve sonunda hayalimdeki şirkette işe girmeye uzanan inanılmaz bir ilerleme kaydettim."</p>
                         <p class="testimonial-name">Wanda</p>
-                        <p class="testimonial-country">China</p>
+                        <p class="testimonial-country">Çin</p>
                     </div>
                 </div>
 
@@ -588,10 +562,9 @@
                     data-aos-easing="ease-in-out">
                     <div class="testimonial-card">
                         <img src="img/japa.png" alt="Yukumi" class="testimonial-img">
-                        <p>"Alex bana çok yardımcı oldu! Özellikle yüksek lisans başvurusu için yaptığım röportajı bana hep verdi
-                        çok yararlı tavsiye. Ve o çok mutlu bir öğretmen! Onun sınıfında hep gülüyorum."</p>
+                        <p>"Alex bana çok yardımcı oldu! Özellikle yüksek lisans başvurusu için yaptığım mülakat hazırlıklarında, bana son derece faydalı öneriler verdi. Ayrıca kendisi çok neşeli bir öğretmen; derslerinde sürekli gülüyorum."</p>
                         <p class="testimonial-name">Yukumi</p>
-                        <p class="testimonial-country">Japan</p>
+                        <p class="testimonial-country">Japonya</p>
                     </div>
                 </div>
 
@@ -600,21 +573,18 @@
                     data-aos-easing="ease-in-out">
                     <div class="testimonial-card">
                         <img src="img/brazil.jpg.png" alt="David" class="testimonial-img">
-                        <p>"Alex son derece arkadaş canlısı ve eğlenceli bir kişidir ve kendi hayatımı geliştirmemde bana çok yardımcı olmuştur.
-                        İngilizce konuşma konusunda özgüven. Kendisini her seviyeden öğrenciye şiddetle tavsiye ediyorum."</p>
+                        <p>"Alex, son derece samimi ve eğlenceli biri; İngilizce konuşma konusunda özgüvenimi kazanmamda bana çok yardımcı oldu. Onu her seviyeden öğrenciye gönül rahatlığıyla tavsiye ediyorum."</p>
                         <p class="testimonial-name">Augusto</p>
-                        <p class="testimonial-country">BRAZIL</p>
+                        <p class="testimonial-country">Brezilya</p>
                     </div>
                 </div>
 
                 <div class="col-md-4">
                     <div class="testimonial-card">
                         <img src="img/colombia.png" alt="Chen" class="testimonial-img">
-                        <p>"Kelly şimdiye kadar sahip olduğum en iyi öğretmen. Onun derslerinde her zaman yeni şeyler öğreniyorum.
-                            ve onun sayesinde İngilizcemi geliştirdiğimi hissediyorum. Son fakat en az değil, o bir
-                            mükemmel bir insan ve her zaman size yardım etmeye odaklanıyor."</p>
+                        <p>"Kelly, şimdiye kadar tanıdığım en iyi öğretmen. Derslerinde her zaman yeni şeyler öğreniyorum ve onun sayesinde İngilizcemi geliştirdiğimi hissediyorum. Son olarak, kendisi mükemmel bir insan ve daima size yardımcı olmaya odaklanıyor"</p>
                         <p class="testimonial-name">Mario</p>
-                        <p class="testimonial-country">COLUMBIA</p>
+                        <p class="testimonial-country">Columbia</p>
                     </div>
                 </div>
 
@@ -623,13 +593,9 @@
                     data-aos-easing="ease-in-out">
                     <div class="testimonial-card">
                         <img src="img/turkey.png" alt="Aisha" class="testimonial-img">
-                        <p>"Kelly her şeyden önce çok nazik, samimi, çalışkan ve pozitif bir insan...
-                            tecrübeli ve çok iyi bir öğretmen... İngilizcem iyi olmasa da bana çok destek oluyor
-                            güzel... Onun sayesinde İngilizce konuşma konusundaki özgüvenim arttı...
-                            Kelly hem keyif hem ayrıcalık... Herkesin seans deneyimlemesini tavsiye ederim
-                            Kelly ile en az bir kez..."</p>
+                        <p>"Kelly, her şeyden önce çok nazik, samimi, çalışkan ve pozitif biri… Aynı zamanda deneyimli ve gerçekten iyi bir öğretmen… İngilizcem iyi olmamasına rağmen bana çok destek oluyor… Onun sayesinde İngilizce konuşurken özgüvenim arttı… Kelly ile çalışmak hem bir zevk hem de bir ayrıcalık… Herkese, en az bir kez Kelly’den ders alma deneyimini öneriyorum."</p>
                         <p class="testimonial-name">Berda</p>
-                        <p class="testimonial-country">TURKEY</p>
+                        <p class="testimonial-country">Türkiye</p>
                     </div>
                 </div>
 
@@ -637,15 +603,9 @@
                 <div class="col-md-4">
                     <div class="testimonial-card">
                         <img src="img/turkey.png" alt="Maria" class="testimonial-img">
-                        <p>"Kelly'nin yardımına çok minnettarım! Hayalimdeki pozisyon için bir iş görüşmem vardı ama
-                            İngilizce konuşma konusunda gergin. Kelly odaklanarak kendimi rahat ve hazırlıklı hissetmemi sağladı
-                            en çok ihtiyacım olan şeyler hakkında Profesyonel yaklaşımı ve yararlı geri bildirimleri bana
-                            İyi performans göstermem için kendime güvenmem gerekiyordu. Onun sayesinde kendimi hazır hissettim ve konuşabildim
-                            Görüşme sırasında güvenle. Kelly'yi gelişmek isteyen herkese şiddetle tavsiye ediyorum
-                            bir iş görüşmesi ya da profesyonel hayat için İngilizcelerini biliyor; o, bu konuyu gerçekten önemseyen bir uzmandır
-                            öğrencilerinin başarısı hakkında.
+                        <p>"Kelly’nin yardımı için çok minnettarım! Hayalimdeki pozisyon için bir iş görüşmem vardı ve İngilizce konuşma konusunda gergindim. Kelly, en çok ihtiyacım olan konulara odaklanarak rahat ve hazırlıklı hissetmemi sağladı. Profesyonel yaklaşımı ve faydalı geri bildirimleri, iyi bir performans göstermem için gerekli özgüveni verdi. Onun sayesinde, görüşme sırasında kendime güvenerek konuşabildim. Kelly’yi, iş görüşmesi veya profesyonel hayat için İngilizcesini geliştirmek isteyen herkese şiddetle tavsiye ederim—öğrencilerinin başarısını gerçekten önemseyen bir uzman.""
                         <p class="testimonial-name">Emir</p>
-                        <p class="testimonial-country">Turkey</p>
+                        <p class="testimonial-country">Türkiye</p>
                     </div>
                 </div>
 
@@ -653,13 +613,9 @@
                 <div class="col-md-4">
                     <div class="testimonial-card">
                         <img src="img/china.jpeg" alt="Liam" class="testimonial-img">
-                        <p>"Alex gerçekten deneyimli bir öğretmen, sadece İngilizce öğretiminde değil aynı zamanda mülakatta da
-                            hazırlık. Davranışsal sorular konusunda oldukça gergindim ve öyle olduğumu düşündüm
-                            anlatacak hikayeleri yok. Ancak Alex'in rehberliğiyle bilgilerimi kolaylıkla aktarabildim.
-                            Bu "yeni" soruları yanıtlamak için önceki hikayeler. Bu nedenle Alex'i şiddetle tavsiye ediyorum.
-                            İngilizce öğretmenin!"</p>
+                        <p>"Alex, yalnızca İngilizce öğretimi değil, mülakat hazırlığı konusunda da gerçekten çok deneyimli bir eğitmen. Davranışsal sorularla ilgili önceden oldukça endişeliydim ve anlatacak doğru hikâyelere sahip olmadığımı düşünüyordum. Ancak Alex’in rehberliği sayesinde, önceki deneyimlerimi bu ‘yeni’ sorulara kolaylıkla uyarlayabildim. Bu nedenle, İngilizce hocası olarak Alex’i kesinlikle tavsiye ederim!"</p>
                         <p class="testimonial-name">Jacqueline</p>
-                        <p class="testimonial-country">CHINA</p>
+                        <p class="testimonial-country">Çin</p>
                     </div>
                 </div>
 
@@ -667,11 +623,9 @@
                 <div class="col-md-4">
                     <div class="testimonial-card">
                         <img src="img/turkey.png" alt="Sophia" class="testimonial-img">
-                        <p>"Alex arkadaş canlısı ve eğlenceli. Onunla bir süredir iş görüşmem hakkında konuşuyorduk.
-                            İş görüşmesinde sorulabilecek her soruyu birlikte yanıtlayın. Bana çok yardımcı oluyor
-                            bununla. Onun sayesinde iş görüşmesine giderken kendime daha çok güveneceğim."</p>
+                        <p>"Alex çok samimi ve eğlenceli biri. Bir süredir iş görüşmem hakkında onunla konuşuyoruz. Mülakatta sorulabilecek her soruyu birlikte cevaplıyoruz ve bu bana gerçekten çok yardımcı oluyor. Onun sayesinde, iş görüşmesine daha özgüvenli bir şekilde gideceğim."</p>
                         <p class="testimonial-name">Selvi</p>
-                        <p class="testimonial-country">TURKEY</p>
+                        <p class="testimonial-country">Türkiye</p>
                     </div>
                 </div>
 
@@ -679,12 +633,9 @@
                 <div class="col-md-4">
                     <div class="testimonial-card">
                         <img src="img/korea.png" alt="Chen" class="testimonial-img">
-                        <p>" Kelly ile tanıştığı için çok mutluyum! Dersleri daha çok bir arkadaşıyla sohbet ediyormuş gibi hissettiriyor
-                            Resmi bir dersten daha çok bu beni rahatlatıyor. İngilizcem öyle olmasa da
-                            yine de harika, hiç gergin hissetmiyorum. Konuşmayı iyi yönlendiriyor ve etkileşime giriyor
-                            öğrenmeyi eğlenceli hale getirecek şekilde."</p>
+                        <p>"Kelly ile tanıştığım için çok mutluyum! Dersleri, resmi bir ders havasından çok bir arkadaşla sohbet ediyormuşum gibi hissettiriyor ve bu da beni çok rahatlatıyor. İngilizcem henüz o kadar iyi olmasa da asla gerginlik hissetmiyorum. Sohbeti çok iyi yönlendiriyor ve benimle öyle bir etkileşim kuruyor ki öğrenmek gerçekten keyifli hale geliyor."</p>
                         <p class="testimonial-name">Camille</p>
-                        <p class="testimonial-country">KOREA</p>
+                        <p class="testimonial-country">Kore</p>
                     </div>
                 </div>
 
@@ -699,18 +650,17 @@
     <div id="faq" class="container-fluid py-3">
         <div class="container-fluid py-3 px-5">
             <div class="text-center">
-                <h5 class="text-primary text-uppercase mb-3" style="letter-spacing: 5px;">SSS'LER</h5>
-                <h2>🔎 Sorularınız mı var? Cevaplarımız Var!</h2>
+                <h5 class="text-primary text-uppercase mb-3" style="letter-spacing: 5px;">SSS (Sıkça Sorulan Sorular)</h5>
+                <h2>🔎 Sorularınız mı var? Cevapları bizde!</h2>
             </div>
             <div class="row align-items-center">
                 <div class="col-lg-5" data-aos="fade-up" data-aos-delay="500" data-aos-duration="500"
                     data-aos-easing="ease-in-out">
                     <h1 style="font-weight: bolder; text-align: center;">Sıkça Sorulan Sorular</h1>
-                    <p class="text-center">Başka sorularınız mı var? <br> Daha fazla bilgi için bizimle iletişime geçmekten çekinmeyin</p>
+                    <p class="text-center">Daha fazla sorunuz mu var?<br> Ek bilgi için bizimle iletişime geçmekten çekinmeyin.</p>
                     <div class="row align-items-center">
                         <div class="col-lg-5 col-md-6 mx-auto text-center">
-                            <a href="#contact" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mb-3 mx-auto text-center">Temas etmek
-                            Biz &nbsp;<i class="fa-solid fa-circle-arrow-right fs-4"></i></a>
+                            <a href="#contact" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mb-3 mx-auto text-center">Bize Ulaşın&nbsp;<i class="fa-solid fa-circle-arrow-right fs-4"></i></a>
                         </div>
                     </div>
                 </div>
@@ -723,7 +673,7 @@
                                     style="background-color: #316aff; color: white;" type="button"
                                     data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true"
                                     aria-controls="collapseOne">
-                                    1. İş görüşmesi koçluğu nedir ve bana nasıl yardımcı olabilir?
+                                    1. İş görüşmesi koçluğu nedir ve bana nasıl fayda sağlar?
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show"
@@ -731,11 +681,7 @@
                                 <div class="accordion-body"
                                     style="background-color: #316aff; color: white; font-size: 20px;"
                                     style="font-weight: 500;">
-                                    İş görüşmesi koçluğu İngilizcenizi geliştirerek mülakatlara hazırlanmanıza yardımcı olur
-                                    konuşma becerileri, özgüven ve soruları etkili bir şekilde cevaplama yeteneği. Bizim
-                                    Koçluk, yapılandırılmış uygulamalar, kişiselleştirilmiş geri bildirimler ve yardımcı olacak stratejiler sağlar.
-                                    Röportajlarda öne çıkıyorsunuz.
-
+                                    İş görüşmesi koçluğu, İngilizce konuşma becerilerinizi, özgüveninizi ve sorulara etkili şekilde cevap verme yeteneğinizi geliştirerek mülakatlara hazırlanmanıza yardımcı olur. Bu koçluk yapılandırılmış pratik, kişiselleştirilmiş geri bildirim ve görüşmelerde öne çıkmanıza destek olacak stratejiler sunar.
                                 </div>
                             </div>
                         </div>
@@ -745,17 +691,14 @@
                                     style="background-color: #316aff; color: white;" type="button"
                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false"
                                     aria-controls="collapseTwo">
-                                    2. Koçluk hizmetiniz kimlere yöneliktir?
+                                    2. Koçluk hizmetiniz kimler için?
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body"
                                     style="font-weight: 500; background-color: #316aff; color: white; font-size: 20px;">
-                                    Koçluğumuz ana dili İngilizce olmayanlar, iş arayanlar ve profesyoneller için tasarlanmıştır
-                                    Kariyer değiştiren ve iş için iletişim becerilerini geliştirmek isteyen herkes
-                                    İngilizce röportajlar.
-
+                                    Koçluk programımız; ana dili İngilizce olmayan kişiler, iş arayanlar, kariyer değişikliği yapan profesyoneller ve İngilizce iş görüşmelerinde iletişim becerilerini geliştirmek isteyen herkes için tasarlanmıştır.
                                 </div>
                             </div>
                         </div>
@@ -765,17 +708,14 @@
                                     style="background-color: #316aff; color: white;" type="button"
                                     data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false"
                                     aria-controls="collapseThree">
-                                    3. Katılmak için akıcı İngilizce bilmem gerekiyor mu?
+                                    3. Programa katılmak için İngilizceyi çok iyi konuşmam şart mı?
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body"
                                     style="font-weight: 500; background-color: #316aff; color: white; font-size: 20px;">
-                                    Hayır, koçluğumuz mevcut İngilizce seviyenize göre uyarlanmıştır. İster bir
-                                    İster Bugün Başlayın ​​düzeyinde ister ileri düzey bir konuşmacı olun, net ve güvenli bir şekilde iletişim kurmanıza yardımcı oluyoruz
-                                    röportajlar.
-
+                                    Hayır, koçluğumuz mevcut İngilizce seviyenize göre uyarlanır. İster yeni başlayan olun ister ileri düzeyde konuşuyor olun, mülakatlarda net ve özgüvenli iletişim kurmanıza yardımcı oluruz.
                                 </div>
                             </div>
                         </div>
@@ -786,18 +726,18 @@
                                     style="background-color: #316aff; color: white;" type="button"
                                     data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false"
                                     aria-controls="collapseFour">
-                                    4. Koçluk süreci nasıl işliyor?
+                                    4. Koçluk süreci nasıl işler?
                                 </button>
                             </h2>
                             <div id="collapseFour" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body"
                                     style="font-weight: 500; background-color: #316aff; color: white; font-size: 20px;">
-                                    Aşağıdakileri yaptığımız bire bir çevrimiçi koçluk oturumları sunuyoruz:<br>
-                                    Güçlü yönlerinizi ve geliştirilecek alanlarınızı analiz edin.<br>
-                                    Yaygın röportaj sorularının alıştırmasını yapın.<br>
-                                    Sahte röportajlar yapın.<br>
-                                    Yanıtlarınızı hassaslaştırmak için kişiselleştirilmiş geri bildirimler ve ipuçları sağlayın.
+                                    Bire bir çevrimiçi koçluk oturumları sunuyoruz ve bu oturumlarda:<br>
+                                    Güçlü yönlerinizi ve gelişime açık alanlarınızı analiz ediyoruz.<br>
+                                    Sık karşılaşılan mülakat sorularını pratik ediyoruz.<br>
+                                    Deneme mülakatları düzenliyoruz.<br>
+                                    Yanıtlarınızı geliştirebilmeniz için kişiselleştirilmiş geri bildirim ve ipuçları paylaşıyoruz.
                                 </div>
                             </div>
                         </div>
@@ -809,7 +749,7 @@
                                     style="background-color: #316aff; color: white;" type="button"
                                     data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false"
                                     aria-controls="collapseFive">
-                                    5. Sahte röportajlar ve geri bildirimler sunuyor musunuz?
+                                    5. Deneme mülakatları ve geri bildirim sağlıyor musunuz?
 
                                 </button>
                             </h2>
@@ -817,10 +757,7 @@
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body"
                                     style="font-weight: 500; background-color: #316aff; color: white; font-size: 20px;">
-                                    Evet! Sahte röportajlarımız gerçek röportaj senaryolarını simüle ederek pratik yapmanıza yardımcı olur
-                                    baskı altında. Yanıtlarınız, telaffuzunuz ve
-                                    genel teslimat.
-
+                                    Evet! Deneme mülakatlarımız, gerçek mülakat senaryolarını canlandırarak baskı altında pratik yapmanıza yardımcı olur. Cevaplarınız, telaffuzunuz ve genel sunumunuz hakkında ayrıntılı geri bildirim sunuyoruz.
                                 </div>
                             </div>
                         </div>
@@ -831,20 +768,14 @@
                                     style="background-color: #316aff; color: white;" type="button"
                                     data-bs-toggle="collapse" data-bs-target="#collapsesix" aria-expanded="false"
                                     aria-controls="collapsesix">
-                                    6. Mülakata hazırlanmak ne kadar sürer?
-
-
+                                    6. Bir iş görüşmesine hazırlanmak ne kadar zaman alır?
                                 </button>
                             </h2>
                             <div id="collapsesix" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body"
                                     style="font-weight: 500; background-color: #316aff; color: white; font-size: 20px;">
-                                    Hedeflerinize ve ihtiyaçlarınıza bağlıdır. Bazı müşteriler tek bir tedavide önemli ölçüde iyileşir
-                                    veya iki seans, diğerleri ise uzun vadeli gelişim için sürekli koçluğu tercih ediyor. Biz
-                                    Zaman çizelgenize göre esnek seçenekler sunun.
-
-                                </div>
+                                    Hedeflerinize ve ihtiyaçlarınıza bağlı olarak değişir. Kimi danışanlarımız yalnızca bir veya iki oturumda önemli gelişme kaydederken, bazıları uzun vadede düzenli koçluğu tercih ediyor. Size uygun zaman çizelgesine göre esnek seçenekler sunuyoruz.                                </div>
                             </div>
                         </div>
                     </div>
@@ -919,27 +850,15 @@
                     <div class="mb-4">
                         <h5 data-aos="fade-up" data-aos-delay="500" data-aos-duration="500"
                             data-aos-easing="ease-in-out" class="text-primary text-uppercase mb-3"
-                            style="letter-spacing: 5px; text-align: center;">Sizden haber almak istiyoruz!</h5>
-                        <h1 class="text-white text-center">Soru veya Yorumunuz Var</h1>
+                            style="letter-spacing: 5px; text-align: center;">SİZİ DİNLEMEK İSTİYORUZ!</h5>
+                        <h1 class="text-white text-center">Bir Sorunuz veya Yorumunuz mu Var?</h1>
                     </div>
-                    <p class="text-white text-center">Sorularınız mı var veya yardıma mı ihtiyacınız var? Yardım etmek için buradayız! Sen
-                        ihtiyaç
-                        Kurs seçimi, teknik destek veya genel sorular konusunda rehberlik için ekibimiz her zaman hazırdır
-                        sana yardımcı olmak için. Bize ulaşın; sorunsuz ve zenginleştirici bir öğrenme deneyimi yaşamanızı sağlayacağız
-                        deneyim.</p>
+                    <p class="text-white text-center">Sorularınız mı var ya da yardıma mı ihtiyacınız var? Buradayız! İster kurs seçimi, ister teknik destek veya genel konulardaki sorularınız olsun, ekibimiz daima yardımcı olmaya hazır. Bizimle iletişime geçin; kesintisiz ve zengin bir öğrenme deneyimi yaşamanızı sağlayalım.</p>
                     <ul class="list-inline text-white m-0">
-                        <li class="py-2 text-center"><i class="fa fa-check text-primary mr-3"></i>Ekibimiz yanıt veriyor
-                            sorgular
-                            Öğrenme engelleriyle asla karşılaşmadığınızdan emin olmak için derhal.
-
+                        <li class="py-2 text-center"><i class="fa fa-check text-primary mr-3"></i>Ekibimiz, öğrenme sürecinizin kesintiye uğramaması için gelen sorularınıza en kısa sürede yanıt verir.
                         </li>
-                        <li class="py-2 text-center"><i class="fa fa-check text-primary mr-3"></i>İster bir
-                            öğrenci veya öğretmen,
-                            tüm ihtiyaçlarınızı karşılıyoruz.</li>
-                        <li class="py-2 text-center"><i class="fa fa-check text-primary mr-3"></i>Size değer veriyoruz
-                            giriş-bize yardım edin
-                            geri bildirimlerinizle geliştirin!
-
+                        <li class="py-2 text-center"><i class="fa fa-check text-primary mr-3"></i>Öğrenci veya eğitmen olmanız fark etmez; tüm ihtiyaçlarınıza yönelik destek sunuyoruz.</li>
+                        <li class="py-2 text-center"><i class="fa fa-check text-primary mr-3"></i>Görüşlerinize değer veriyoruz—geri bildirimlerinizle kendimizi daha da geliştirebiliriz!
                         </li>
                     </ul>
                 </div>
@@ -947,7 +866,7 @@
                     data-aos-easing="ease-in-out">
                     <div class="card border-0">
                         <div class="card-header bg-light text-center p-4">
-                            <h1 class="m-0">Bize Ulaşın
+                            <h1 class="m-0">Bizimle İletişime Geçin
                             </h1>
                         </div>
                         <div class="card-body rounded-bottom bg-primary p-5">
@@ -958,7 +877,7 @@
                                         required="required" />
                                 </div>
                                 <div class="form-group">
-                                    <input type="email" class="form-control border-0 p-4" id="email" name="email" placeholder="E-postanız
+                                    <input type="email" class="form-control border-0 p-4" id="email" name="email" placeholder="E-posta Adresiniz
 "
                                         required="required" />
                                 </div>
@@ -972,7 +891,7 @@
                                 </div>
 
                                 <div>
-                                    <button class="btn btn-dark btn-block border-0 py-3" type="submit">Send</button>
+                                    <button class="btn btn-dark btn-block border-0 py-3" type="submit">Gönder</button>
                                 </div>
                                 <div id="recaptcha-error">Please complete the reCAPTCHA.</div>
                                 
@@ -997,7 +916,7 @@
             <div class="col-lg-7 col-md-12">
                 <div class="row">
                     <div class="col-md-6 mb-5">
-                        <h5 class="text-white text-uppercase mb-4" style="letter-spacing: 5px;">İletişime Geçin
+                        <h5 class="text-white text-uppercase mb-4" style="letter-spacing: 5px;">Bize Ulaşın
                         </h5>
                         <!-- <p><i class="fa fa-map-marker-alt mr-2"></i>12 Knowledge Street, Online City, USA -->
                         </p>
@@ -1018,59 +937,35 @@
                         </div>
                     </div>
                     <div class="col-md-12 col-lg-6" style="line-height: 25px; font-size: 12px;">
-                        <h5 class="text-white text-uppercase" style="letter-spacing: 5px;">Hizmet Verdiğimiz Sektörler
+                        <h5 class="text-white text-uppercase" style="letter-spacing: 5px;">HİZMET VERDİĞİMİZ SEKTÖRLER
                         </h5>
                         <div class="d-flex flex-column justify-content-start">
-                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>İlaç ve
-                            Sağlık Bilimleri Röportajı
-                            </a>
-                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Finans ve Bankacılık
-                                Röportaj
-
-                            </a>
-                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Muhasebe ve zenginlik
-                            yönetim görüşmesi
-                            </a>
-                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Yazılım Geliştirici
-                            Röportaj
-                            </a>
-                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Müşteri Hizmetleri
-                            Röportaj</a>
-                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>İnsan kaynakları
-                            röportaj</a>
-                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Tedarik zinciri yönetimi
-                            röportaj</a>
-                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Operasyon Yönetimi
-                            röportaj</a>
-                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Kalite Güvencesi
-                            röportaj</a>
-                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Araştırma ve
-                                Gelişim
-                            </a>
-                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Otel ve Konaklama
-                            röportaj</a>
-                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Satış ve pazarlama
-                            röportaj</a>
-                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>İmalat ve
-                            lojistik röportajı</a>
+                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>İlaç ve Sağlık Bilimleri </a>
+                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Finans ve Bankacılık Mülakatları</a>
+                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Muhasebe ve Varlık Yönetimi </a>
+                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Yazılım Geliştirici Mülakatları</a>
+                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Müşteri Hizmetleri Mülakatları</a>
+                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>İnsan Kaynakları Mülakatları</a>
+                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Tedarik Zinciri Yönetimi </a>
+                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Operasyon Yönetimi Mülakatları</a>
+                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Kalite Güvence Mülakatları</a>
+                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Araştırma ve Geliştirme Mülakatları</a>
+                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Otel ve Konaklama Mülakatları</a>
+                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Satış ve Pazarlama Mülakatları</a>
+                            <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Üretim ve Lojistik Mülakatları</a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-12 mb-5">
-                <h5 class="text-white text-uppercase mb-4" style="letter-spacing: 5px;">Bülten
-                </h5>
-                <p>En son güncellemeleri, uzman görüşlerini ve özel teklifleri doğrudan gelen kutunuza alın! Katılmak
-                    bültenimize göz atın ve heyecan verici trendler, değerli ipuçları ve özel bilgilerden ilk siz haberdar olun
-                    promosyonlar.
- 🚀💡</p>
+                <h5 class="text-white text-uppercase mb-4" style="letter-spacing: 5px;">BÜLTEN</h5>
+                <p>En son güncellemeler, uzman görüşleri ve özel fırsatlar doğrudan e-posta kutunuza gelsin! Bültenimize katılın; heyecan verici trendlerden, değerli ipuçlarından ve özel kampanyalardan ilk sizin haberiniz olsun. 🚀💡</p>
                 <div class="w-100">
                     <div class="input-group">
                         <input type="text" class="form-control border-light" style="padding: 30px;"
                             >
                         <div class="input-group-append">
-                            <button type="button" class="btn btn-primary px-4">Üye olmak
-                            </button>
+                            <button type="button" class="btn btn-primary px-4">Abone Ol</button>
                         </div>
                     </div>
                 </div>
@@ -1103,18 +998,18 @@
             <div class="col-lg-6 text-center text-md-right">
                 <ul class="nav d-inline-flex">
                     <li class="nav-item">
-                        <a class="nav-link text-white py-0" href="tur.php">Ev</a>
+                        <a class="nav-link text-white py-0" href="tur.php">Ana Sayfa</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white py-0" href="tur.php#about">Hakkında
+                        <a class="nav-link text-white py-0" href="tur.php#about">Hakkımızda
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white py-0" href="tur.php#faq">SSS'ler
+                        <a class="nav-link text-white py-0" href="tur.php#faq">SSS (Sıkça Sorulan Sorular)
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white py-0" href="tur.php#contact">Temas etmek
+                        <a class="nav-link text-white py-0" href="tur.php#contact">İletişim
                         </a>
                     </li>
                 </ul>

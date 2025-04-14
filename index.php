@@ -101,7 +101,7 @@
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
                             <h5 style="margin-top: -130px;" class="display-3 text-white mb-my-4 text-center fs-sm-5">IMPROVE YOUR ENGLISH. <br> GAIN
-                                CONFIDENCE. <br> PASS YOUR INTERVIEW</h5>
+                                CONFIDENCE. <br> PASS YOUR INTERVIEW.</h5>
                             <div class="row mx-auto text-center">
                                 <div class="col-lg-3 col-md-3 col-sm-4 mx-auto mx-md-auto mx-sm-auto mx-lg-auto">
                                     <a href="#package"
@@ -122,7 +122,7 @@
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
                             <h5 style="margin-top: -130px;" class="display-3 text-white mb-md-4 text-center">EXPERT COACHES. <br> 1-ON-1 CLASSES.
-                                <br> STEP BY STEP GUIDANCE
+                                <br> STEP BY STEP GUIDANCE.
                             </h5>
                             <div class="row mx-auto text-center">
                                 <div class="col-lg-3 col-md-3 col-sm-4 mx-auto mx-md-auto mx-sm-auto mx-lg-auto">
@@ -133,7 +133,7 @@
                             </div>
                             <h3
                                 class="display-car text-white text-uppercase mb-md-3 text-sm-center text-md-center text-lg-center">
-                                We help you speak with confidence and get results
+                                We help you speak with confidence and get results.
                             </h3>
 
 
@@ -146,7 +146,7 @@
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
                             <h5 class="display-3 text-white mb-md-4 text-center">PRACTICE REAL INTERVIEWS. <br> ADVANCE
-                                YOUR CAREER<br> AND STAND OUT.</h5>
+                                YOUR CAREER.<br> AND STAND OUT.</h5>
                             <div class="row mx-auto text-center">
                                 <div class="col-lg-3 col-md-3 col-sm-4 mx-auto mx-md-auto mx-sm-auto mx-lg-auto">
                                     <a href="#package"
@@ -331,9 +331,7 @@
                         <!-- <h5 class="text-primary text-uppercase mb-3" style="letter-spacing: 5px;">About Us</h5> -->
                         <h3 class="text-primary  mt-3" style="font-weight: bold;">Step 1. Choose Your Plan
                         </h3>
-                        <p style="font-weight: 600;color: white; font-size: 18px;">Pick a plan that suits your needs,
-                            from a single
-                            session to ongoing coaching</p>
+                        <p style="font-weight: 600;color: white; font-size: 18px;">Pick a plan that suits your needs, from a single session to ongoing coaching.</p>
                         <h3 class="text-primary" style="font-weight: bold; color: white;">Step 2. Schedule a Class
 
                         </h3>
