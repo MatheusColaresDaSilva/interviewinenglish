@@ -4,7 +4,7 @@ $validPlans = ['basic', 'standard', 'executive'];
 
 if (!$plan || !in_array($plan, $validPlans)) {
     http_response_code(403);
-    die("Acesso não autorizado.");
+    die("Unauthorized access");
 }
 ?>
 

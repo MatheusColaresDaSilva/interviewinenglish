@@ -18,7 +18,7 @@ loadEnv(__DIR__ . '/.env');
 
 \Stripe\Stripe::setApiKey($_ENV['STRIPE_SECRET_KEY']);
 
-$baseSuccessUrl = 'http://localhost/interview/redirect-success.php?plan=';
+$baseSuccessUrl = 'https://interviewinenglish.com/redirect-success.php?plan=';
 
 $plans = [
     'basic' => [

@@ -45,7 +45,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $email = htmlspecialchars($_POST['email']);
         $messageContent = htmlspecialchars($_POST['message']);
 
-        $to = "onlineinterviewcoach@gmail.com";
+        $to = "contact@interviewinenglish.com";
         $subject = "New Form Submission";
         $message = "Name: $name\nEmail: $email\nMessage: $messageContent";
         $headers = "From: $email";
@@ -53,7 +53,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         if (mail($to, $subject, $message, $headers)) {
             echo json_encode(["success" => true, "message" => "Captcha verified. Email sent successfully."]);
         } else {
-            echo json_encode(["success" => false, "message" => "Captcha verified, but the email could not be sent."]);
+            $error = error_get_last();
+            echo json_encode([
+                "success" => false,
+                "message" => "Captcha verified, but the email could not be sent!!!.",
+                "error" => $error
+            ]);
         }
         } else {
             echo json_encode(["success" => false, "message" => "reCAPTCHA verification failed."]);

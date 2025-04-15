@@ -331,7 +331,7 @@
                         <!-- <h5 class="text-primary text-uppercase mb-3" style="letter-spacing: 5px;">About Us</h5> -->
                         <h3 class="text-primary  mt-3" style="font-weight: bold;">Step 1. Choose Your Plan
                         </h3>
-                        <p style="font-weight: 600;color: white; font-size: 18px;">Pick a plan that suits your needs, from a single session to ongoing coaching.</p>
+                        <p style="font-weight: 600;color: white; font-size: 18px;">Pick a plan that suits your needs,from a single session to ongoing coaching.</p>
                         <h3 class="text-primary" style="font-weight: bold; color: white;">Step 2. Schedule a Class
 
                         </h3>
@@ -967,7 +967,7 @@
                                 </div>
 
                                 <div class="form-group" style="overflow: hidden;">
-                                    <div class="g-recaptcha" data-sitekey="6Ld4VBQrAAAAAHwrGhBnGwecEYjfWfVf06Zf9AXn" ></div>
+                                    <div class="g-recaptcha" data-sitekey="6LdQxhkrAAAAAOCu56DN4TA0F4pm6oG1M4IIe6dP" ></div>
                                 </div>
 
                                 <div>

@@ -37,12 +37,17 @@ $("#contactForm").on("submit", function (e) {
             }
         },
         error: function (xhr, status, error) {
-            console.log(error);
+            console.error("Erro completo:", {
+                status: status,
+                error: error,
+                responseText: xhr.responseText
+            });
+        
             Swal.fire({
                 icon: 'error',
                 title: 'Erro!',
                 text: 'Error sending the form. Please try again.',
-                footer: '<code>' + error + '</code>',
+                footer: `<pre style="text-align:left">${xhr.responseText || error}</pre>`,
                 confirmButtonColor: '#d33'
             });
         }
