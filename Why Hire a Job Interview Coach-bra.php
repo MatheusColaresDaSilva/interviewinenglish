@@ -173,8 +173,9 @@
                         <h5 class="text-white text-uppercase mb-4" style="letter-spacing: 5px;">Entre em contato</h5>
                         <!-- <p><i class="fa fa-map-marker-alt mr-2"></i>12 Knowledge Street, Online City, USA -->
                         </p>
-                        <!-- <p><i class="fa fa-phone-alt mr-2"></i>+1 (555) 123-4567</p> -->
-                        <p><i class="fa fa-envelope mr-2"></i>contact@interviewinenglish.com
+                        <p>
+                            <i class="fa fa-envelope mr-2"></i>
+                            <a href="mailto:contact@interviewinenglish.com" style="color: white;">contact@interviewinenglish.com</a>
                         </p>
                         <div class="d-flex justify-content-start mt-4">
                             <a class="btn btn-outline-light btn-square mr-2" target="_blank"

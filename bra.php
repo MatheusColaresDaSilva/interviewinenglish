@@ -41,6 +41,8 @@
 
     <!-- Customized Bootstrap Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/what-we-offer.css" rel="stylesheet">
+
 
      <!-- SweetAlert2 CSS -->
      <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css" rel="stylesheet">
@@ -151,7 +153,7 @@
                         style="min-height: 300px; object-fit: cover;">
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
-                            <h5 class="display-3 text-white mb-md-4 text-center">PRATIQUE ENTREVISTAS REAIS. <br> AVANCE SUA CARREIRA.<br> E DESTAQUE-SE.</h5>
+                            <h5 style="margin-top: -130px;" class="display-3 text-white mb-md-4 text-center">PRATIQUE ENTREVISTAS REAIS. <br> AVANCE SUA CARREIRA<br> E DESTAQUE-SE.</h5>
                             <div class="row mx-auto text-center">
                                 <div class="col-lg-3 col-md-3 col-sm-4 mx-auto mx-md-auto mx-sm-auto mx-lg-auto">
                                     <a href="#package"
@@ -185,26 +187,19 @@
 
                     <h3 class="text-primary text-center">O que oferecemos:
                     </h3>
-                    <ul style="list-style: none;">
-                        <li class="mt-3 text-center" id="what-we-offer"><span class="text-primary fw-bold fs-5">• Tutoria Especializada:
-</span><br class="custom-break">
-                            <span class="offer-para" style="line-height:35px; font-size:18px; font-weight: bold;">Aulas interativas para
-                                melhorar a fluência, aumentar a confiança e apoiar
-                                seu crescimento.</span>
+                    <ul class="what-we-offer">
+                        <li>
+                            <span class="title">• Tutoria Especializada:</span>
+                            Aulas interativas para melhorar a fluência, aumentar a confiança e apoiar seu crescimento.
                         </li>
-                        <li class="mt-3 text-center" id="what-we-offer"><span class="text-primary fw-bold fs-5">• Treinamento para Vida Real:</span><br class="custom-break">
-                            <span class="offer-para" style="line-height:35px; font-size:18px; font-weight: bold;">Dicas práticas e estratégias para facilitar as entrevistas.
-                            </span>
+                        <li>
+                            <span class="title">• Treinamento para Vida Real:</span>
+                            Dicas práticas e estratégias para facilitar as entrevistas.
                         </li>
-                        <li class="mt-3 text-center" id="what-we-offer"><span class="text-primary fw-bold fs-5">• Preparação para universidade e carreira:</span><br class="custom-break">
-                            <span class="offer-para" style="line-height:35px; font-size:18px; font-weight: bold;">De entrevistas simuladas a treinamento de fluência, ajudamos milhares de pessoas a ingressar nas melhores universidades e a garantir empregos.</span>
+                        <li>
+                            <span class="title">• Preparação para universidade e carreira:</span>
+                            De entrevistas simuladas a treinamento de fluência, ajudamos milhares de pessoas a ingressar nas melhores universidades e a garantir empregos.
                         </li>
-                        <!-- <li class="mt-3 text-center" style="line-height:35px; font-size:18px; font-weight: bold;"><span class="text-primary fw-bold fs-5">• Real-World
-                                Coaching: </span>
-                        </li>
-
-                        <li class="mt-3 text-center" style="line-height:35px; font-size:18px; font-weight: bold;"><span class="text-primary fw-bold fs-5"> University & Career Prep: </span>From mock interviews to fluency training, we've helped thousands get into top universities and secure jobs.
-                    </li> -->
                     </ul>
 
                     <div class="row">
@@ -996,7 +991,9 @@
                         <!-- <p><i class="fa fa-map-marker-alt mr-2"></i>12 Knowledge Street, Online City, USA -->
                         </p>
                         <!-- <p><i class="fa fa-phone-alt mr-2"></i>+1 (555) 123-4567</p> -->
-                        <p><i class="fa fa-envelope mr-2"></i>contact@interviewinenglish.com
+                        <p>
+                            <i class="fa fa-envelope mr-2"></i>
+                            <a href="mailto:contact@interviewinenglish.com" style="color: white;">contact@interviewinenglish.com</a>
                         </p>
                         <div class="d-flex justify-content-start mt-4">
                             <a class="btn btn-outline-light btn-square mr-2" target="_blank"

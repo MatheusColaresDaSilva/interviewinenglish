@@ -43,6 +43,7 @@
 
     <!-- Customized Bootstrap Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/what-we-offer.css" rel="stylesheet">
 
 
     <!-- SweetAlert2 CSS -->
@@ -66,7 +67,7 @@
             </button>
             <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                 <div class="navbar-nav py-0 text-center ms-auto">
-                    <a href="index.php" class="nav-item nav-link active">Home</a>
+                    <a href="index.php" class="nav-item nav-link active">English Interview Preparation with One-on-One Expert Coaching</a>
                     <!-- <a href="#how" class="nav-item nav-link">How</a> -->
                     <a href="#about" class="nav-item nav-link">About</a>
                     <a href="#package" class="nav-item nav-link">Pricing</a>
@@ -100,7 +101,7 @@
                         style="min-height: 300px; object-fit: cover;">
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
-                            <h5 style="margin-top: -130px;" class="display-3 text-white mb-my-4 text-center fs-sm-5">IMPROVE YOUR ENGLISH. <br> GAIN
+                            <h5 style="margin-top: -130px;" class="display-3 text-white mb-my-4 text-center fs-sm-5">IMPROVE YOUR ENGLISH.<br> GAIN
                                 CONFIDENCE. <br> PASS YOUR INTERVIEW.</h5>
                             <div class="row mx-auto text-center">
                                 <div class="col-lg-3 col-md-3 col-sm-4 mx-auto mx-md-auto mx-sm-auto mx-lg-auto">
@@ -112,7 +113,7 @@
 
                             <h3
                                 class="display-car text-white text-uppercase mb-md-3 text-sm-center text-md-center text-lg-center ">
-                                We help you prepare for your English interview.</h3>
+                                Step-by-step Guidance to Prepare for Your English Interview.</h3>
                         </div>
                     </div>
                 </div>
@@ -145,8 +146,8 @@
                         style="min-height: 300px; object-fit: cover;">
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
-                            <h5 class="display-3 text-white mb-md-4 text-center">PRACTICE REAL INTERVIEWS. <br> ADVANCE
-                                YOUR CAREER.<br> AND STAND OUT.</h5>
+                            <h5 style="margin-top: -130px;" class="display-3 text-white mb-md-4 text-center">PRACTICE REAL INTERVIEWS. <br> ADVANCE
+                                YOUR CAREER<br> AND STAND OUT.</h5>
                             <div class="row mx-auto text-center">
                                 <div class="col-lg-3 col-md-3 col-sm-4 mx-auto mx-md-auto mx-sm-auto mx-lg-auto">
                                     <a href="#package"
@@ -181,28 +182,21 @@
                     </div>
 
                     <h3 class="text-primary text-center" id="offers">What We Offer:</h3>
-                    <ul style="list-style: none;">
-                        <li class="mt-3 text-center" id="what-we-offer"><span class="text-primary fw-bold fs-5">• Expert
-                                Tutoring: </span><br class="custom-break">
-                            <span class="offer-para" style="line-height:35px; font-size:18px; font-weight: bold;">Interactive lessons to
-                                improve fluency, boost confidence, and support
-                                your growth.</span>
+                    <ul class="what-we-offer">
+                        <li>
+                            <span class="title">• Expert Tutoring:</span>
+                            Interactive lessons to improve fluency, boost confidence, and support your growth.
                         </li>
-                        <li class="mt-3 text-center" id="what-we-offer"><span class="text-primary fw-bold fs-5">• Real-World
-                            Coaching: </span><br class="custom-break">
-                            <span class="offer-para" style="line-height:35px; font-size:18px; font-weight: bold;">Practical tips and strategies to make interviews    easier.
-                            </span>
+                        <li>
+                            <span class="title">• Real-World Coaching:</span>
+                            Practical tips and strategies to make interviews easier.
                         </li>
-                        <li class="mt-3 text-center" id="what-we-offer"><span class="text-primary fw-bold fs-5">• University & Career Prep:</span><br class="custom-break">
-                            <span class="offer-para" style="line-height:35px; font-size:18px; font-weight: bold;">From mock interviews to fluency training, we've helped thousands get into top universities and secure jobs.</span>
+                        <li>
+                            <span class="title">• University & Career Prep:</span>
+                            From mock interviews to fluency training, we've helped thousands get into top universities and secure jobs.
                         </li>
-                        <!-- <li class="mt-3 text-center" style="line-height:35px; font-size:18px; font-weight: bold;"><span class="text-primary fw-bold fs-5">• Real-World
-                                Coaching: </span>
-                        </li>
-
-                        <li class="mt-3 text-center" style="line-height:35px; font-size:18px; font-weight: bold;"><span class="text-primary fw-bold fs-5"> University & Career Prep: </span>From mock interviews to fluency training, we've helped thousands get into top universities and secure jobs.
-                    </li> -->
                     </ul>
+
 
                     <div class="row">
                         <div class="col-lg-6 mx-auto text-center" data-aos="fade-right" data-aos-delay="500"
@@ -1002,7 +996,9 @@
                         <!-- <p><i class="fa fa-map-marker-alt mr-2"></i>12 Knowledge Street, Online City, USA -->
                         </p>
                         <!-- <p><i class="fa fa-phone-alt mr-2"></i>+1 (555) 123-4567</p> -->
-                        <p><i class="fa fa-envelope mr-2"></i>contact@interviewinenglish.com
+                        <p>
+                            <i class="fa fa-envelope mr-2"></i>
+                            <a href="mailto:contact@interviewinenglish.com" style="color: white;">contact@interviewinenglish.com</a>
                         </p>
                         <div class="d-flex justify-content-start mt-4">
                             <a class="btn btn-outline-light btn-square mr-2" target="_blank"

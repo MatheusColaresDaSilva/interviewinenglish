@@ -56,7 +56,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $error = error_get_last();
             echo json_encode([
                 "success" => false,
-                "message" => "Captcha verified, but the email could not be sent!!!.",
+                "message" => "Captcha verified, but the email could not be sent.",
                 "error" => $error
             ]);
         }

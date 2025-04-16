@@ -41,6 +41,8 @@
 
     <!-- Customized Bootstrap Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/what-we-offer.css" rel="stylesheet">
+
 
     <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css" rel="stylesheet">
     <!-- SweetAlert2 JS -->
@@ -144,7 +146,7 @@
                         style="min-height: 300px; object-fit: cover;">
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
-                            <h5 class="display-3 text-white mb-md-4 text-center">沉浸式真实面试场景<br>助力您的职业发展<br>让您脱颖而出</h5>
+                            <h5 style="margin-top: -130px;" class="display-3 text-white mb-md-4 text-center">沉浸式真实面试场景<br>助力您的职业发展<br>让您脱颖而出</h5>
                             <div class="row mx-auto text-center">
                                 <div class="col-lg-3 col-md-3 col-sm-4 mx-auto mx-md-auto mx-sm-auto mx-lg-auto">
                                     <a href="#package"
@@ -176,24 +178,21 @@
                     </div>
 
                     <h3 class="text-primary text-center">我们提供什么：</h3>
-                    <ul style="list-style: none;">
-                        <li class="mt-3 text-center" id="what-we-offer"><span class="text-primary fw-bold fs-5">• 专家辅导：</span><br class="custom-break">
-                            <span class="offer-para" style="line-height:35px; font-size:18px; font-weight: bold;">互动课程可提高流利程度、增强信心并支持您的成长。</span>
+                    <ul class="what-we-offer">
+                        <li>
+                            <span class="title">• 专家辅导：</span>
+                            互动课程可提高流利程度、增强信心并支持您的成长。
                         </li>
-                        <li class="mt-3 text-center" id="what-we-offer"><span class="text-primary fw-bold fs-5">• 真实世界指导： </span><br class="custom-break">
-                            <span class="offer-para" style="line-height:35px; font-size:18px; font-weight: bold;">使面试变得更容易的实用技巧和策略。
-                            </span>
+                        <li>
+                            <span class="title">• 真实世界指导：</span>
+                            使面试变得更容易的实用技巧和策略。
                         </li>
-                        <li class="mt-3 text-center" id="what-we-offer"><span class="text-primary fw-bold fs-5">•大学和职业准备：</span><br class="custom-break">
-                            <span class="offer-para" style="line-height:35px; font-size:18px; font-weight: bold;">从模拟面试到流利培训，我们已经帮助数千人进入顶尖大学并找到工作。</span>
+                        <li>
+                            <span class="title">• 大学和职业准备：</span>
+                            从模拟面试到流利培训，我们已经帮助数千人进入顶尖大学并找到工作。
                         </li>
-                        <!-- <li class="mt-3 text-center" style="line-height:35px; font-size:18px; font-weight: bold;"><span class="text-primary fw-bold fs-5">• Real-World
-                                Coaching: </span>
-                        </li>
-
-                        <li class="mt-3 text-center" style="line-height:35px; font-size:18px; font-weight: bold;"><span class="text-primary fw-bold fs-5"> University & Career Prep: </span>From mock interviews to fluency training, we've helped thousands get into top universities and secure jobs.
-                    </li> -->
                     </ul>
+
 
                     <div class="row">
                         <div class="col-lg-6 mx-auto text-center" data-aos="fade-right" data-aos-delay="500"
@@ -982,7 +981,10 @@
                 <div class="row">
                     <div class="col-md-6 mb-5">
                         <h5 class="text-white text-uppercase mb-4" style="letter-spacing: 5px;">联系我们</h5>
-                        <p><i class="fa fa-envelope mr-2"></i>contact@interviewinenglish.com</p>
+                        <p>
+                            <i class="fa fa-envelope mr-2"></i>
+                            <a href="mailto:contact@interviewinenglish.com" style="color: white;">contact@interviewinenglish.com</a>
+                        </p>
                         <div class="d-flex justify-content-start mt-4">
                             <a class="btn btn-outline-light btn-square mr-2" target="_blank"
                                 href="https://x.com/interviewtutor"><i class="fab fa-twitter"></i></a>

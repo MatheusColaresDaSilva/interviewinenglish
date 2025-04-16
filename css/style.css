@@ -11734,3 +11734,27 @@ ul li i{
     font-size: 20px;
     font-weight: bold;
 }
+
+.what-we-offer-list {
+  list-style: none;
+  padding: 0;
+}
+
+.what-we-offer-item {
+  text-align: justify;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 35px;
+  margin-top: 1rem; /* equivalente a mt-3 */
+  text-align: justify;
+}
+
+.what-we-offer-title {
+  color: #0d6efd; /* bootstrap primary */
+  font-weight: bold;
+  font-size: 1.25rem; /* fs-5 */
+}
+
+.what-we-offer-description {
+  margin-left: 8px;
+}

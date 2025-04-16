@@ -41,6 +41,8 @@
 
     <!-- Customized Bootstrap Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/what-we-offer.css" rel="stylesheet">
+
 
      <!-- SweetAlert2 CSS -->
      <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css" rel="stylesheet">
@@ -144,8 +146,8 @@
                         style="min-height: 300px; object-fit: cover;">
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
-                            <h5 class="display-3 text-white mb-md-4 text-center">GERÇEK RÖPORTAJLAR UYGULAYIN. <br> İLERLEME
-                            KARİYERİNİZ.<br> VE ÖNE ÇIKIN.</h5>
+                            <h5 style="margin-top: -130px;" class="display-6 text-white mb-md-4 text-center">GERÇEK RÖPORTAJLAR UYGULAYIN. <br> İLERLEME
+                            KARİYERİNİZ<br> VE ÖNE ÇIKIN.</h5>
                             <div class="row mx-auto text-center">
                                 <div class="col-lg-3 col-md-3 col-sm-4 mx-auto mx-md-auto mx-sm-auto mx-lg-auto">
                                     <a href="#package"
@@ -178,28 +180,21 @@
                     </div>
 
                     <h3 class="text-primary text-center">Neler Sunuyoruz?</h3>
-                    <ul style="list-style: none;">
-                        <li class="mt-3 text-center" id="what-we-offer"><span class="text-primary fw-bold fs-5">• Uzman Eğitmenlik: </span><br class="custom-break">
-                            <span class="offer-para" style="line-height:35px; font-size:18px; font-weight: bold;">İnteraktif dersler
-                            Akıcılığınızı geliştirmek, özgüveninizi artırmak ve ilerlemenizi desteklemek için etkileşimli dersler.</span>
+                    <ul class="what-we-offer">
+                        <li>
+                            <span class="title">• Uzman Eğitmenlik:</span>
+                            Akıcılığınızı geliştirmek, özgüveninizi artırmak ve ilerlemenizi desteklemek için etkileşimli dersler.
                         </li>
-                        <li class="mt-3 text-center" id="what-we-offer"><span class="text-primary fw-bold fs-5">• Gerçek Dünya Koçluğu:
- </span><br class="custom-break">
-                            <span class="offer-para" style="line-height:35px; font-size:18px; font-weight: bold;">Mülakatları daha kolay hâle getirecek pratik ipuçları ve stratejiler.
-
-                            </span>
+                        <li>
+                            <span class="title">• Gerçek Dünya Koçluğu:</span>
+                            Mülakatları daha kolay hâle getirecek pratik ipuçları ve stratejiler.
                         </li>
-                        <li class="mt-3 text-center" id="what-we-offer"><span class="text-primary fw-bold fs-5">• Üniversite & Kariyer Hazırlığı:
-                        </span><br class="custom-break">
-                            <span class="offer-para" style="line-height:35px; font-size:18px; font-weight: bold;">Deneme mülakatlarından akıcılık eğitimine kadar uzanan çeşitli programlarımızla, binlerce kişinin önde gelen üniversitelere kabul almasına ve iş dünyasında başarılı olmasına yardımcı olduk.</span>
+                        <li>
+                            <span class="title">• Üniversite & Kariyer Hazırlığı:</span>
+                            Deneme mülakatlarından akıcılık eğitimine kadar uzanan çeşitli programlarımızla, binlerce kişinin önde gelen üniversitelere kabul almasına ve iş dünyasında başarılı olmasına yardımcı olduk.
                         </li>
-                        <!-- <li class="mt-3 text-center" style="line-height:35px; font-size:18px; font-weight: bold;"><span class="text-primary fw-bold fs-5">• Real-World
-                                Coaching: </span>
-                        </li>
-
-                        <li class="mt-3 text-center" style="line-height:35px; font-size:18px; font-weight: bold;"><span class="text-primary fw-bold fs-5"> University & Career Prep: </span>From mock interviews to fluency training, we've helped thousands get into top universities and secure jobs.
-                    </li> -->
                     </ul>
+                            
 
                     <div class="row">
                         <div class="col-lg-6 mx-auto text-center" data-aos="fade-right" data-aos-delay="500"
@@ -921,7 +916,9 @@
                         <!-- <p><i class="fa fa-map-marker-alt mr-2"></i>12 Knowledge Street, Online City, USA -->
                         </p>
                         <!-- <p><i class="fa fa-phone-alt mr-2"></i>+1 (555) 123-4567</p> -->
-                        <p><i class="fa fa-envelope mr-2"></i>contact@interviewinenglish.com
+                        <p>
+                            <i class="fa fa-envelope mr-2"></i>
+                            <a href="mailto:contact@interviewinenglish.com" style="color: white;">contact@interviewinenglish.com</a>
                         </p>
                         <div class="d-flex justify-content-start mt-4">
                             <a class="btn btn-outline-light btn-square mr-2" target="_blank"
