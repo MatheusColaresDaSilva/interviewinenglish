@@ -952,7 +952,7 @@
                                 </div>
 
                                 <div class="form-group" style="overflow: hidden;">
-                                    <div class="g-recaptcha" data-sitekey="6Lf2bfQqAAAAABfH_ad1U5skrVDB1hyIS3zKScaA" required="required"></div>
+                                    <div class="g-recaptcha" data-sitekey="6LdQxhkrAAAAAOCu56DN4TA0F4pm6oG1M4IIe6dP"></div>
                                 </div>
 
                                <button class="btn btn-dark btn-block border-0 py-3" type="submit">Send</button>

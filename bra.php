@@ -956,7 +956,7 @@
                                 </div>
 
                                 <div class="form-group" style="overflow: hidden;">
-                                    <div class="g-recaptcha" data-sitekey="6Ld4VBQrAAAAAHwrGhBnGwecEYjfWfVf06Zf9AXn" ></div>
+                                    <div class="g-recaptcha" data-sitekey="6LdQxhkrAAAAAOCu56DN4TA0F4pm6oG1M4IIe6dP" ></div>
                                 </div>
 
                                 <div>

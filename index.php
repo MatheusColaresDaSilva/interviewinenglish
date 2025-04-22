@@ -67,7 +67,7 @@
             </button>
             <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                 <div class="navbar-nav py-0 text-center ms-auto">
-                    <a href="index.php" class="nav-item nav-link active">English Interview Preparation with One-on-One Expert Coaching</a>
+                    <a href="index.php" class="nav-item nav-link active">Home</a>
                     <!-- <a href="#how" class="nav-item nav-link">How</a> -->
                     <a href="#about" class="nav-item nav-link">About</a>
                     <a href="#package" class="nav-item nav-link">Pricing</a>
@@ -112,8 +112,7 @@
                             </div>
 
                             <h3
-                                class="display-car text-white text-uppercase mb-md-3 text-sm-center text-md-center text-lg-center ">
-                                Step-by-step Guidance to Prepare for Your English Interview.</h3>
+                                class="display-car text-white text-uppercase mb-md-3 text-sm-center text-md-center text-lg-center ">We help you prepare for your English interview.</h3>
                         </div>
                     </div>
                 </div>
